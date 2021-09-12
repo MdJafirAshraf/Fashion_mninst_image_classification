@@ -18,7 +18,7 @@ if you use jupyter notebook run the following command in anaconda prompt termina
 
 ## Getting Started
 
-We create model for image classification using feed forward network. The feed forward network is first and simple type of deep learning networks. It is a classification algorithm. In this network, information moves only forward not from a cycle. 
+We create a model for image classification using the feed-forward network. The feed-forward network is the first and simple type of deep learning network. It is a classification algorithm. In this network, information moves only forward not from a cycle. 
 <br><br>
 
 ## License
